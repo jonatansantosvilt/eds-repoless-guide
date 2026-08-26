@@ -1,5 +1,0 @@
-mountpoints:
-  /:
-    url: "https://author-p34812-e1712500.adobeaemcloud.com/bin/franklin.delivery/jonatansantosvilt/eds-repoless-guide/main"
-    type: "markup"
-    suffix: ".html"
